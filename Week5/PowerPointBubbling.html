@@ -1,0 +1,28 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Event Bubbling.</title>
+    <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+  </head>
+  <body>
+    <p></p>
+    <table border="1" style="width: 100%">
+      <tbody>
+        <tr>
+          <td id="A">A</td>
+          <td id="B">B</td>
+          <td id="C">C</td>
+          <td id="D">D</td>
+        </tr>
+      </tbody>
+    </table>
+    
+    <script>
+        $("table").on("click","td", function(){ 
+               console.log("Delegated td click from:" + $(this).attr("id"));
+        });
+       $("table").on("click","tr", function(){
+		   console.log("Delegated tr click from: row");
+	   });
+    </script>
+  </body>
+</html>
