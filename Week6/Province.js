@@ -6,7 +6,7 @@ $(document).on('pagecreate', '#home', function(){
         url: "canada/canada.json",
         dataType: "json",
         success: function(result){  
-          //provinceInfo.result = result.province;
+          provinceInfo.result = result.province;
           var provinceItems = '';
           $.each(result.province, function(i, row) {
           provinceItems += '<li><a href="" data-id="' + i + '"><h3>' + row.name + '</h3></a></li>';
@@ -23,7 +23,7 @@ $(document).on('pagecreate', '#home', function(){
 
 $(document).on('pagebeforeshow', '#provincePage', function(){      
     $('#provinceInfo').empty(); 
-    $('#provinceInfo').append('<H3>' + provinceInfo.result[provinceInfo.id].NAME + '</H3>');
+    $('#provinceInfo').append('<H3>' + provinceInfo.result[provinceInfo.id].name + '</H3>');
             
     $('#provinceInfo').trigger('create');         
   
