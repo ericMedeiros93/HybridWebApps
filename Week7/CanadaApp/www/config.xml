@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        version     = "1.0.0"
+        versionCode = "10" >
+
+        <!-- versionCode is optional and Android only -->
+
+        <preference name="phonegap-version" value="3.1.0" />
+
+        <name>Canada Tutor</name>
+
+        <description>
+        Training module for Canadian Citizenship.
+        </description>
+        
+        <gap:splash src="splash.png" />
+        <icon src="icon.png" />
+
+        <author href="http://yoursite.com" email="you@youremail.com">
+        Eric Medeiros
+        </author>
+        <preference name="permissions" value="none"/>
+
+        
+
+</widget>

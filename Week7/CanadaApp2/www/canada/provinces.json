@@ -1,0 +1,107 @@
+{
+      country:"Canada",
+      capital:"Ottawa", 
+      "province":[
+         {
+            "name":"Ontario",
+            "flag":"ontariof.png",
+            "abbreviation":"ON",
+            "capital":"Toronto",
+            "largecity":"Toronto",
+            "joindate":"July 1, 1867",
+            "population":"12,851,821",
+            "area":"1,076,395"
+         },
+         {
+            "name":"Quebec",
+            "flag":"quebecf.png",
+            "abbreviation":"QC",
+            "capital":"Quebec City",
+            "largecity":"Montreal",
+            "joindate":"July 1, 1867",
+            "population":"7,903,001",
+            "area":"1,542,056"
+         },
+         {
+            "name":"Nova Scotia",
+            "flag":"novascotiaf.png",
+            "abbreviation":"NS",
+            "capital":"Halifax",
+            "largecity":"Halifax",
+            "joindate":"July 1, 1867",
+            "population":"921,727",
+            "area":"55,284"
+         },
+         {
+            "name":"New Brunswick",
+            "flag":"newbrunswickf.png",
+            "abbreviation":"NB",
+            "capital":"Fredericton",
+            "largecity":"Saint John",
+            "joindate":"July 1, 1867",
+            "population":"751,171",
+            "area":"72,908"
+         },
+         {
+            "name":"Manitoba",
+            "flag":"manitobaf.png",
+            "abbreviation":"MB",
+            "capital":"Winnipeg",
+            "largecity":"Winnipeg",
+            "joindate":"July 15, 1870",
+            "population":"1,208,268",
+            "area":"647,797"
+         },
+         {
+            "name":"British Columbia",
+            "flag":"bcf.png",
+            "abbreviation":"BC",
+            "capital":"Victoria",
+            "largecity":"Vancouver",
+            "joindate":"July 20, 1871",
+            "population":"4,400,057",
+            "area":"944,735"
+         },
+         {
+            "name":"Prince Edward Island",
+            "flag":"peif.png",
+            "abbreviation":"PE",
+            "capital":"Charlottetown",
+            "largecity":"Charlottetown",
+            "joindate":"July 1, 1873",
+            "population":"140,204",
+            "area":"5,660"
+         },
+         {
+            "name":"Saskatchewan",
+            "flag":"saskatchewanf.png",
+            "abbreviation":"SK",
+            "capital":"Regina",
+            "largecity":"Saskatoon",
+            "joindate":"September 1, 1905",
+            "population":"1,033,381",
+            "area":"651,036"
+         },
+         {
+            "name":"Alberta",
+            "flag":"albertaf.png",
+            "abbreviation":"AB",
+            "capital":"Edmonton",
+            "largecity":"Calgary",
+            "joindate":"September 1, 1905",
+            "population":"3,645,257",
+            "area":"661,848"
+         },
+         {
+            "name":"Newfoundland and Labrador",
+            "flag":"newfoundlandf.png",
+            "abbreviation":"NL",
+            "capital":"St. John's",
+            "largecity":"St. John's",
+            "joindate":"March 31, 1949",
+            "population":"514,536",
+            "area":"405,212"
+         }
+      ]
+   }
+}

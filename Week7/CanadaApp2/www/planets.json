@@ -1,0 +1,230 @@
+{
+ 
+    "PLANETS": [
+      {
+        "COLOR": "ORANGE",
+        "NAME": "Mercury",
+        "DISTANCE": {
+          "UNITS": "km",
+          "VALUE": "57.91"
+        },
+        "RADIUS": {
+          "UNITS": "km",
+          "VALUE": "2340"
+        },
+        "LENGTH_OF_YEAR": "0.24085",
+        "DAY": {
+          "UNITS": "days",
+          "VALUE": "88"
+        },
+        "MASS": {
+          "UNITS": "(Earth=1)",
+          "VALUE": "0.054"
+        },
+        "DENSITY": {
+          "UNITS": "gm/cm",
+          "VALUE": "6.03"
+        }
+      },
+      {
+        "COLOR": "WHITE",
+        "NAME": "Venus",
+        "DISTANCE": {
+          "UNITS": "km",
+          "VALUE": "108.21"
+        },
+        "RADIUS": {
+          "UNITS": "km",
+          "VALUE": "6100"
+        },
+        "LENGTH_OF_YEAR": "0.61521",
+        "DAY": {
+          "UNITS": "days",
+          "VALUE": "230"
+        },
+        "MASS": {
+          "UNITS": "(Earth=1)",
+          "VALUE": "0.814"
+        },
+        "DENSITY": {
+          "UNITS": "gm/cm",
+          "VALUE": "5.11"
+        }
+      },
+      {
+        "COLOR": "BLUE",
+        "NAME": "Earth",
+        "DISTANCE": {
+          "UNITS": "km",
+          "VALUE": "149.60"
+        },
+        "RADIUS": {
+          "UNITS": "km",
+          "VALUE": "6371"
+        },
+        "LENGTH_OF_YEAR": "1.000039",
+        "DAY": {
+          "UNITS": "hours",
+          "VALUE": "24"
+        },
+        "MASS": {
+          "UNITS": "(Earth=1)",
+          "VALUE": "1.00"
+        },
+        "DENSITY": {
+          "UNITS": "gm/cm",
+          "VALUE": "5.517"
+        }
+      },
+      {
+        "COLOR": "RED",
+        "NAME": "Mars",
+        "DISTANCE": {
+          "UNITS": "km",
+          "VALUE": "227.9"
+        },
+        "RADIUS": {
+          "UNITS": "km",
+          "VALUE": "3324"
+        },
+        "LENGTH_OF_YEAR": "1.88089",
+        "DAY": {
+          "UNITS": "hours",
+          "VALUE": "24.5"
+        },
+        "MASS": {
+          "UNITS": "(Earth=1)",
+          "VALUE": "0.107"
+        },
+        "DENSITY": {
+          "UNITS": "gm/cm",
+          "VALUE": "4.16"
+        }
+      },
+      {
+        "COLOR": "YELLOW",
+        "NAME": "Jupiter",
+        "DISTANCE": {
+          "UNITS": "km",
+          "VALUE": "778.3"
+        },
+        "RADIUS": {
+          "UNITS": "km",
+          "VALUE": "69750"
+        },
+        "LENGTH_OF_YEAR": "11.8653",
+        "DAY": {
+          "UNITS": "hours",
+          "VALUE": "9.8"
+        },
+        "MASS": {
+          "UNITS": "(Earth=1)",
+          "VALUE": "317.4"
+        },
+        "DENSITY": {
+          "UNITS": "gm/cm",
+          "VALUE": "1.34"
+        }
+      },
+      {
+        "COLOR": "YELLOW",
+        "NAME": "Saturn",
+        "DISTANCE": {
+          "UNITS": "km",
+          "VALUE": "1428"
+        },
+        "RADIUS": {
+          "UNITS": "km",
+          "VALUE": "58170"
+        },
+        "LENGTH_OF_YEAR": "29.6501",
+        "DAY": {
+          "UNITS": "hours",
+          "VALUE": "10.2"
+        },
+        "MASS": {
+          "UNITS": "(Earth=1)",
+          "VALUE": "95.0"
+        },
+        "DENSITY": {
+          "UNITS": "gm/cm",
+          "VALUE": "0.68"
+        }
+      },
+      {
+        "COLOR": "YELLOW",
+        "NAME": "Uranus",
+        "DISTANCE": {
+          "UNITS": "km",
+          "VALUE": "2872"
+        },
+        "RADIUS": {
+          "UNITS": "km",
+          "VALUE": "23750"
+        },
+        "LENGTH_OF_YEAR": "83.7445",
+        "DAY": {
+          "UNITS": "hours",
+          "VALUE": "10.7"
+        },
+        "MASS": {
+          "UNITS": "(Earth=1)",
+          "VALUE": "14.5"
+        },
+        "DENSITY": {
+          "UNITS": "gm/cm",
+          "VALUE": "1.55"
+        }
+      },
+      {
+        "COLOR": "PURPLE",
+        "NAME": "Neptune",
+        "DISTANCE": {
+          "UNITS": "km",
+          "VALUE": "4498"
+        },
+        "RADIUS": {
+          "UNITS": "km",
+          "VALUE": "22400"
+        },
+        "LENGTH_OF_YEAR": "165.951",
+        "DAY": {
+          "UNITS": "hours",
+          "VALUE": "12.7"
+        },
+        "MASS": {
+          "UNITS": "(Earth=1)",
+          "VALUE": "17.6"
+        },
+        "DENSITY": {
+          "UNITS": "gm/cm",
+          "VALUE": "2.23"
+        }
+      },
+      {
+        "COLOR": "GRAY",
+        "NAME": "Pluto",
+        "DISTANCE": {
+          "UNITS": "km",
+          "VALUE": "5910"
+        },
+        "RADIUS": {
+          "UNITS": "km",
+          "VALUE": "3000"
+        },
+        "LENGTH_OF_YEAR": "247.687",
+        "DAY": {
+          "UNITS": "days",
+          "VALUE": "6.39"
+        },
+        "MASS": {
+          "UNITS": "(Earth=1)",
+          "VALUE": "0.2"
+        },
+        "DENSITY": {
+          "UNITS": "gm/cm",
+          "VALUE": "5.2"
+        }
+      }
+    ]
+}

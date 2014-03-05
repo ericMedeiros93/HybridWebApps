@@ -1,0 +1,102 @@
+<provinces>
+<province>
+<name>Ontario</name>
+<flag>ontariof.png</flag>
+<abbreviation >ON</abbreviation>
+<capital>Toronto</capital>
+<largecity>Toronto</largecity>
+<joindate>July 1, 1867</joindate>
+<population >12,851,821</population>
+<area >1,076,395</area>
+</province>
+<province>
+<name>Quebec</name>
+<flag>quebecf.png</flag>
+<abbreviation >QC</abbreviation>
+<capital>Quebec City</capital>
+<largecity>Montreal</largecity>
+<joindate>July 1, 1867</joindate>
+<population >7,903,001</population>
+<area >1,542,056</area>
+</province>
+<province>
+<name>Nova Scotia</name>
+<flag>novascotiaf.png</flag>
+<abbreviation >NS</abbreviation>
+<capital>Halifax</capital>
+<largecity>Halifax</largecity>
+<joindate>July 1, 1867</joindate>
+<population >921,727</population>
+<area >55,284</area>
+</province>
+<province>
+<name>New Brunswick</name>
+<flag>newbrunswickf.png</flag>
+<abbreviation >NB</abbreviation>
+<capital>Fredericton</capital>
+<largecity>Saint John</largecity>
+<joindate>July 1, 1867</joindate>
+<population >751,171</population>
+<area >72,908</area>
+</province>
+<province>
+<name>Manitoba</name>
+<flag>manitobaf.png</flag>
+<abbreviation >MB</abbreviation>
+<capital>Winnipeg</capital>
+<largecity>Winnipeg</largecity>
+<joindate>July 15, 1870</joindate>
+<population >1,208,268</population>
+<area >647,797</area>
+</province>
+<province>
+<name>British Columbia</name>
+<flag>bcf.png</flag>
+<abbreviation >BC</abbreviation>
+<capital>Victoria</capital>
+<largecity>Vancouver</largecity>
+<joindate>July 20, 1871</joindate>
+<population >4,400,057</population>
+<area >944,735</area>
+</province>
+<province>
+<name>Prince Edward Island</name>
+<flag>peif.png</flag>
+<abbreviation >PE</abbreviation>
+<capital>Charlottetown</capital>
+<largecity>Charlottetown</largecity>
+<joindate>July 1, 1873</joindate>
+<population >140,204</population>
+<area >5,660</area>
+</province>
+<province>
+<name>Saskatchewan</name>
+<flag>saskatchewanf.png</flag>
+<abbreviation >SK</abbreviation>
+<capital>Regina</capital>
+<largecity>Saskatoon</largecity>
+<joindate>September 1, 1905</joindate>
+<population >1,033,381</population>
+<area >651,036</area>
+</province>
+<province>
+<name>Alberta</name>
+<flag>albertaf.png</flag>
+<abbreviation >AB</abbreviation>
+<capital>Edmonton</capital>
+<largecity>Calgary</largecity>
+<joindate>September 1, 1905</joindate>
+<population >3,645,257</population>
+<area >661,848</area>
+</province>
+<province>
+<name>Newfoundland and Labrador</name>
+<flag>newfoundlandf.png</flag>
+<abbreviation >NL</abbreviation>
+<capital>St. John's</capital>
+<largecity>St. John's</largecity>
+<joindate>March 31, 1949</joindate>
+<population >514,536</population>
+<area >405,212</area>
+</province>
+</provinces>
