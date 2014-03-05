@@ -24,6 +24,8 @@ $(document).on('pagecreate', '#home', function(){
 $(document).on('pagebeforeshow', '#provincePage', function(){      
     $('#provinceInfo').empty(); 
     $('#provinceInfo').append('<H3>' + provinceInfo.result[provinceInfo.id].name + '</H3>');
+    $('#provinceInfo').append('<p>' + provinceInfo.result[provinceInfo.id].capital + '</p>');
+    $('#provinceInfo').append('<p>' + provinceInfo.result[provinceInfo.id].population + '</p>');
             
     $('#provinceInfo').trigger('create');         
   
