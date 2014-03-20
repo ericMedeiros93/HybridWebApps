@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<title>Citizenship Canada</title> 
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.1/jquery.mobile-1.4.1.min.css" />
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.4.1/jquery.mobile-1.4.1.min.js"></script>
+<script src="DynamicList.js"></script>
+
+<body> 
+
+<div data-role="page" id="home">
+    <div data-theme="a" data-role="header">
+        <h3>
+            Planet List
+        </h3>
+    </div>        
+    <div data-role="content">
+        <div class="example-wrapper" data-iscroll="">
+            <ul data-role="listview" id="planet-list" data-theme="a">
+                   <!-- EMPTY LIST VIEW -  LOAD WITH PLANET NAMES -->
+            </ul>
+        </div>
+    </div>
+    <div data-theme="a" data-role="footer">
+        <h1>Copyright 2014</h1>
+    </div>              
+</div>
+<!-- ONLY USING A SINGLE PAGE TO DISPLAY INFO FOR ALL PLANETS -->
+<div data-role="page" id="planetPage">
+    <div data-theme="a" data-role="header">
+        <a href="#home" class="ui-btn-left" data-transition="slide" data-direction="reverse">Back</a>  
+                              
+        <h3>
+            Planet Info
+        </h3>
+    </div>        
+    <div data-role="content" id="planetInfo">
+        <!-- INSERT PLANET DATA HERE BEFORE YOU JUMP FROM PLANET-LIST LISTVIEW -->
+    </div>
+</div>    
+
+
+</body></html>
